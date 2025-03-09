@@ -2,6 +2,18 @@ Project Link:
 
 https://github.com/i-am-shodan/USBArmyKnife
 
+Plug in your device, holding down any boot button that may exist
+
+Visit https://esp.huhn.me/
+
+Click Connect, select your ESP32 device and select Connect again
+
+Add the files and offsets seen in the image below. You need to pay special attention to the offsets for each file. Delete any other entries. image
+
+Click Program
+
+In the Output window you should see lots of text scrolling, the device flashing then the following image
+
 
 
 Project Instalation:
